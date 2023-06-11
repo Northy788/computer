@@ -1,7 +1,7 @@
 # computer
 ถ้าจะทดลองใช้งานต้องเปิด 2 อย่าง
 1. API ใน directory ./
-  -> npm run dev
+  - > npm run dev
 
 2. หน้า Client ใน diretory ./client/
   - > npm run start
